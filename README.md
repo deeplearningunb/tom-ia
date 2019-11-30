@@ -27,7 +27,7 @@ Outro produtores, compositores e músicos em gerais, que tem desejo de criar nov
 
 ### Quem faz parte do nosso time?
 
-Somos alunos (e ex-alunos) do curso de engenharia de software da UnB. Nosso time é composto por:
+Somos alunos (e ex-aluno) do curso de engenharia de software da UnB. Nosso time é composto pelos incríveis:
 
 Membro |	E-mail	| Github	| Matricula
 ------ | :------: | :------: | ------ 
