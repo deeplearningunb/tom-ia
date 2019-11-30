@@ -1,1 +1,2 @@
-# music-fusion
+# Music Fusion
+
