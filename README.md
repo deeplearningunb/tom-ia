@@ -25,6 +25,11 @@ Com certeza, *Carlinho*!!!
 
 Outro produtores, compositores e músicos em gerais, que tem desejo de criar novas letras misturando estilos musicais diferentes podem se beneficiar dessa solução de I.A.
 
+### Como posso contribuir para essa solução incrível?
+
+Sua ajuda é sempre muito bem vinda, *Carlinhos* agradece muito!
+O guia com todos os passos para contribuir com este projeto se encontra [aqui](https://github.com/deeplearningunb/tom-ia/blob/dev/CONTRIBUTING.md). Lembre-se que é necessário seguir nosso código de conduta! Para conferir, basta clicar [aqui](https://github.com/deeplearningunb/tom-ia/blob/dev/CODE_OF_CONDUCT.md).
+
 ### Quem faz parte do nosso time?
 
 Somos alunos (e ex-aluno) do curso de engenharia de software da UnB. Nosso time é composto pelos incríveis:
