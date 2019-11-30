@@ -38,5 +38,5 @@ Membro |	E-mail	| Github	| Matricula
 ------ | :------: | :------: | ------ 
 Ronyell Henrique (leader) |	ronyellhenrique@gmail.com |	[Ronyell](https://github.com/Ronyell) |	15/**
 Luciano dos Santos 	| luciano_z7@hotmail.com	| [lucianosz7](https://github.com/lucianosz7) | 16/**
-João Vítor Lemos |	joao.lemos4000@gmail.com |	[joaovitorml](https://github.com/joaovitorml) |	15/**
+João Vítor Lemos |	joao.lemos4000@gmail.com |	[joaovitorml](https://github.com/joaovitorml) |	16/0010195
 Augusto Modesto	| augusto.modesto@live.com	| [modestoo](https://github.com/modestoo) | Sem matricula 
