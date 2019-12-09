@@ -43,13 +43,13 @@ Augusto Modesto	| augusto.modesto@live.com	| [modestoo](https://github.com/modes
 
 ### Roadmap
  
- #### Sprint 1
+ #### Sprint 1 (15 a 22 de novembro)
  * [Redigir read-me](https://github.com/deeplearningunb/tom-ia/issues/3)
  * [Pesquisar sobre os temas do projeto](https://github.com/deeplearningunb/tom-ia/issues/4)
  * [Criar método de input da rede](https://github.com/deeplearningunb/tom-ia/issues/5)
  * [Realizar o pré-processamento dos dados](https://github.com/deeplearningunb/tom-ia/issues/8)
  
- #### Sprint 2
+ #### Sprint 2 (23 a 29 de novembro)
  * [Criar rede NPL](https://github.com/deeplearningunb/tom-ia/issues/6)
  * [Realizar treinamento da rede](https://github.com/deeplearningunb/tom-ia/issues/7)
  * [Realizar ajustes da rede](https://github.com/deeplearningunb/tom-ia/issues/9)
